@@ -39,10 +39,7 @@ Code
 
 "test_DM_GNN_squri.py" is an example case of the cross-network node classification task from squirrel1 to squirrel2 networks.
 
-Plese cite our paper as:
+Please cite our paper as:
 ===
 Xiao Shen, Shirui Pan, Kup-Sze Choi, Xi Zhou. Domain-adaptive Message Passing Graph Neural Network. Neural Networks, 2023.
 
-Pytorch Implementation of DM_GNN can be found at:
-===
-https://github.com/shenxiaocam/DM_GNN
