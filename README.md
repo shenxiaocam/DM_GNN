@@ -1,4 +1,3 @@
-# DM_GNN
 Domain-adaptive Message Passing Graph Neural Network (DM_GNN)
 ====
 This repository contains the author's implementation in Tensorflow for the paper "Domain-adaptive Message Passing Graph Neural Network".
