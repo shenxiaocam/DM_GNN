@@ -4,7 +4,7 @@ This repository contains the author's implementation in Tensorflow for the paper
 
 Environment Requirement
 ===
-The code has been tested running under Python 3.7.11. The required packages are as follows:
+The code has been tested running under the required packages as follows:
 
 python == 3.7.11
 
