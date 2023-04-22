@@ -34,14 +34,16 @@ Code
 ===
 "DM_GNN_model.py" is the implementation of the DM_GNN model.
 
-"test_DM_GNN_Blog.py" is an example case of the cross-network node classification task from Blog1 to Blog2 networks.
+"test_DM_GNN_Blog.py" is an example case of the cross-network node classification task from Blog2 to Blog1 networks.
 
 "test_DM_GNN_citation.py" is an example case of the cross-network node classification task from citationv1 to dblpv7 networks.
+
+"test_DM_GNN_squri.py" is an example case of the cross-network node classification task from squirrel1 to squirrel2 networks.
 
 Plese cite our paper as:
 ===
 Xiao Shen, Shirui Pan, Kup-Sze Choi, Xi Zhou. Domain-adaptive Message Passing Graph Neural Network. Neural Networks, 2023.
 
-Pytorch Implementation of ACDNE can be found at:
+Pytorch Implementation of DM_GNN can be found at:
 ===
-[https://github.com/3480430977/DM_GNN](https://github.com/shenxiaocam/DM_GNN)
+https://github.com/shenxiaocam/DM_GNN
