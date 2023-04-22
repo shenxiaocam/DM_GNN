@@ -20,7 +20,7 @@ sklearn == 0.23.2
 
 Datasets
 ===
-input/ contains the 5 datasets used in our paper.
+input/ contains the 7 datasets used in our paper.
 
 Each ".mat" file stores a network dataset, where
 
@@ -44,4 +44,4 @@ Xiao Shen, Shirui Pan, Kup-Sze Choi, Xi Zhou. Domain-adaptive Message Passing Gr
 
 Pytorch Implementation of ACDNE can be found at:
 ===
-https://github.com/3480430977/DM_GNN
+[https://github.com/3480430977/DM_GNN](https://github.com/shenxiaocam/DM_GNN)
