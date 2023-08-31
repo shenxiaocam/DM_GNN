@@ -41,5 +41,8 @@ Code
 
 Please cite our paper as:
 ===
-Xiao Shen, Shirui Pan, Kup-Sze Choi, Xi Zhou. Domain-adaptive Message Passing Graph Neural Network. Neural Networks, 2023.
+Shen, Xiao, et al. "Domain-adaptive message passing graph neural network." Neural Networks 164 (2023): 439-454. 
+
+
+
 
