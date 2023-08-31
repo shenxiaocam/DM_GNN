@@ -43,6 +43,8 @@ Please cite our paper as:
 ===
 Shen, Xiao, et al. "Domain-adaptive message passing graph neural network." Neural Networks 164 (2023): 439-454. 
 
-
+Paper: 
+===
+"NN-DM-GNN.pdf" is the PDF version of DM_GNN paper.
 
 
