@@ -41,10 +41,10 @@ Code
 
 Please cite our paper as:
 ===
-Shen, Xiao, et al. "Domain-adaptive message passing graph neural network." Neural Networks 164 (2023): 439-454. 
+Xiao Shen, Shirui Pan, Kup-Sze Choi, Xi Zhou*. Domain-adaptive Message Passing Graph Neural Network. Neural Networks, vol. 164, pp. 439-454, 2023.
 
 Paper: 
 ===
-"NN-DM-GNN.pdf" is the PDF version of DM_GNN paper.
+"NN-DM-GNN.pdf" is the PDF version of our DM_GNN paper.
 
 
